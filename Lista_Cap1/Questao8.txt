@@ -1,0 +1,6 @@
+O programa começa com uma quebra de linha (\n), depois realiza uma tabulação (\t) e imprime "Primeiro programa".
+As aspas aparecem na tela porque foram representadas pela sequência \".
+
+Então a saída é:
+
+    "Primeiro programa"

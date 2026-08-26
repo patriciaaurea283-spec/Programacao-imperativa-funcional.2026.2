@@ -1,0 +1,8 @@
+A- int a; Correto, a declaração de números inteiros é int variável; 
+B- float b; Correto, a declaração de números float é float variável; 
+C- double float c; Incorreto, a variável não pode ser declarada como double e float ao mesmo tempo 
+D- unsigned char d; Correto, esta é a declaração correta desse tipo de dado, que será um valor que ocupa 1 byte e armazena valores inteiros positivos 
+E- unsigned e; Correto, essa declaração sem especificar o tipo base indica ao compilador que considere como int. 
+F- long float f; Incorreto, o long não pode ser aplicado ao tipo float. 
+G- long g; Correto, essa é a declaração de um valor long e dessa forma, o compilador assumirá que é um inteiro. 
+I- long double h; Correto, o long pode ser aplicado ao float para armazenar números reais maiores.

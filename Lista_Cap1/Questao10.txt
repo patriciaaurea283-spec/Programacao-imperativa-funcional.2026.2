@@ -1,0 +1,9 @@
+B Verdadeiro.
+
+A linguagem C diferencia letras maiúsculas de minúsculas.
+
+peso
+Peso
+PESO
+
+São identificadores diferentes e podem representar variáveis diferentes.

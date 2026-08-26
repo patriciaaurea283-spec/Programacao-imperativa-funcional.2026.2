@@ -1,0 +1,3 @@
+Alternativa correta: C
+
+As diretivas iniciadas por # são processadas pelo pré-processador.

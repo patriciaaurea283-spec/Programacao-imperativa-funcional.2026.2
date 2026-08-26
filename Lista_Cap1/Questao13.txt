@@ -1,0 +1,3 @@
+Alternativa correta: C
+
+São arquivos de texto que contêm protótipos de funções, definições de constantes, macros e tipos.

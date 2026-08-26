@@ -1,0 +1,3 @@
+Alternativa correta: C
+
+#include é uma diretiva do pré-processador C, processada antes da compilação propriamente dita.

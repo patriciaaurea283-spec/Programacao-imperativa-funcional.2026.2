@@ -1,0 +1,3 @@
+-O programa não está certo segundo o padrão ANSI C. 
+-Está faltando incluir o cabeçalho <stdio.h> para declarar corretamente a função printf() e o cabeçalho <stdlib.h> para declarar system(). 
+-Também é recomendável declarar explicitamente a função principal como int main() e finalizar com return 0;.

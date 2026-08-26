@@ -1,0 +1,7 @@
+Estão corretas:
+
+A- printf ( "Primeiro programa" );
+B -printf( "Primeiro programa" );
+C -printf("Primeiro programa");
+
+A alternativa d está incorreta porque faltam os parênteses da função printf().

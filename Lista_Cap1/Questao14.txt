@@ -1,0 +1,3 @@
+Alternativa correta: A
+
+O #include permite ao compilador ter acesso às declarações e definições necessárias das bibliotecas antes da compilação do código.

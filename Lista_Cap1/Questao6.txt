@@ -1,0 +1,6 @@
+b e c não foram declaradas.
+Em int a=1; b=2; c=3 tem : no lugar de ;.
+A string do printf() está com as aspas e argumentos errados.
+A sequência \n foi colocada dentro do texto de forma errada.
+O printf() não tem uma string formatada corretamente.
+system("pause") depende do sistema operacional e não é necessário em C padrão.

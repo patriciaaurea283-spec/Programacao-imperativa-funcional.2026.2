@@ -1,0 +1,25 @@
+A- Começa com uma quebra de linha, depois uma tabulação e imprime:
+
+    Bom dia! Shirley.
+
+B- Imprime:
+
+Você já tomou café?
+
+seguido de uma quebra de linha.
+
+C- Imprime duas quebras de linha antes de:
+
+A solução não existe!
+Não insista.
+
+D- \t produz tabulações. A saída seria:
+
+Duas    linhas    de    saída
+ou      uma?
+
+E- Imprime cada palavra em uma linha:
+
+um
+dois
+três
