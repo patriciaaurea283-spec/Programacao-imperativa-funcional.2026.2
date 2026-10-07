@@ -1,0 +1,5 @@
+a) O while realiza a validação da condição antes de cada ciclo, o que significa que o corpo do laço pode não ser executado nenhuma vez se a condição inicial for falsa. Já a estrutura do-while avalia a expressão de teste apenas no final de cada ciclo, garantindo que as instruções sejam executadas pelo menos uma vez de forma incondicional.   
+
+b) O for é a melhor escolha quando sabe antes o número fixo de repetições. O while é recomendado quando o número de repetições não é conhecido previamente e a condição precisa ser testada antes do bloco. O do-while é ideal para validação de entradas e construção de menus interativos, onde o prompt deve ser exibido ao usuário antes de qualquer checagem.   
+
+c) É um erro de lógica. A presença do ponto e vírgula após a condição encerra a instrução do laço. Se condicao for verdadeira, o programa entrará em um loop infinito executando uma instrução vazia (nula), travando a execução sem nunca entrar no bloco de código subsequente.
