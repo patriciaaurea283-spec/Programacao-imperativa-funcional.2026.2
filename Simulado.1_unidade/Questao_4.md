@@ -1,0 +1,5 @@
+a) i < j + 2 -> (2 < 5) -> Resultado: 1 (Verdadeiro)
+b) 2 * i - 5 <= j - 4 -> (-1 <= -1) -> Resultado: 1 (Verdadeiro)
+c) !k && (x + y >= 7.5) -> (1 && 7.5 >= 7.5) -> Resultado: 1 (Verdadeiro)
+d) !(i == j) || (y / x == 2.0) -> (1 || 1) -> Resultado: 1 (Verdadeiro)
+e) i == 2 && j == -4 || k == 0 -> O resultado será 1 (Verdadeiro) 
