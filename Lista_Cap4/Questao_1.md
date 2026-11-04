@@ -1,0 +1,5 @@
+a) O operador = realiza uma atribuição, e não uma comparação. O valor 0 é atribuído à variável x. A expressão do if passa a ter o valor 0 (que em C equivale a falso). Por isso, a variável x tem o seu valor alterado para 0 e o bloco interno do if nunca será executado.  Já o operador == realiza uma comparação de igualdade. O valor de x não é alterado. Se x for igual a 0, a condição é verdadeira e o bloco será executado.   
+
+b) Na linguagem C, não existe um tipo booleano primitivo no padrão ANSI C clássico. Qualquer valor numérico diferente de zero (seja positivo ou negativo, inteiro ou real) é interpretado como verdadeiro (1). O valor igual a zero (0 ou 0.0) é interpretado como falso (0).   
+
+c) A instrução atribui o valor -5 à variável x. O valor da expressão passa a ser -5. Como -5 é um número diferente de zero, o padrão ANSI C avalia a condição como verdadeira. Portanto, o bloco de código associado será executado
